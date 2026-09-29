@@ -9,10 +9,7 @@ import re
 # =====================
 # Header & Logo with Emoji 🤖
 # =====================
-col1, col2 = st.columns([1.5,5])  # زيادة عرض العمود الأول للشعار
-with col1:
-    st.image("elo_logo.png", width=200)  # تكبير الشعار
-with col2:
+
     st.markdown("""
     <h1 style='margin-bottom:0; font-size:48px;'> Math AI 🤖</h1>
     <p style='font-size:16px;'>
