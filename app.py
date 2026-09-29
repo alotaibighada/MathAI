@@ -10,8 +10,7 @@ import re
 # Header & Logo with Emoji 🤖
 # =====================
 
-  
-    <h1 style='margin-bottom:0; font-size:48px;'> Math AI 🤖</h1>
+ <h1 style='margin-bottom:0; font-size:48px;'> Math AI 🤖</h1>
     <p style='font-size:16px;'>
         Official Training Platform for<br>
     </p>
