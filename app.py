@@ -14,7 +14,6 @@ import re
     <h1 style='margin-bottom:0; font-size:48px;'> Math AI 🤖</h1>
     <p style='font-size:16px;'>
         Official Training Platform for<br>
-        <strong>English Language Olympiad (ELO)</strong>
     </p>
     """, unsafe_allow_html=True)
 
